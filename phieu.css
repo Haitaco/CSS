@@ -772,7 +772,7 @@ img[alt="link to my github"] {
 	transition: all 0.3s ease;
 }
 
-@keyframes block:not {
+@keyframes block:not(.two) {
     0% {
         transform: translateZ(0) rotate(.01deg);
     }
