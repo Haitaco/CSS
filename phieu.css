@@ -558,6 +558,8 @@ img[alt="phone3"] {
 	animation-fill-mode: forwards;
 	animation-timing-function: ease-out;
 	visibility: hidden;
+	background-image: url(https://i.imgur.com/5FoLDXM.png);
+    	background-size: cover;
 }
 
 #block7 img {
