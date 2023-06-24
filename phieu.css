@@ -30,7 +30,7 @@ header {
 }
 
 header img {
-	height: 30px;
+	height: 100px;
 }
 
 @media (max-width: 330px) {
